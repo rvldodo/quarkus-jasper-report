@@ -1,6 +1,6 @@
 # jasper-report Project
 
-untuk menjalankan project ini bisa dengan ./mvn quarkus:dev atau juga quarkus dev
+untuk menjalankan project ini bisa dengan `./mvn quarkus:dev` atau juga `quarkus dev`
 
 ## output file
 
